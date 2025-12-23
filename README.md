@@ -90,5 +90,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Run the Python script
 
 python Wine_quality_prediction.py
+
 or
+
 Use Jupyter Notebook
+
+👩‍💻 Author
+
+Deepika
